@@ -1,0 +1,10 @@
+
+.menu__lista {
+    display: flex;
+
+}
+
+
+header nav ul li:last-child a {
+    margin-right: 0%;
+  }
